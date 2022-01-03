@@ -80,8 +80,8 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstAttribute="trailing" secondItem="u9C-ta-Pfs" secondAttribute="trailing" id="cJd-aE-DUU"/>
-                            <constraint firstItem="u9C-ta-Pfs" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="dsC-xI-SvQ"/>
                             <constraint firstAttribute="bottom" secondItem="u9C-ta-Pfs" secondAttribute="bottom" id="tqO-Rp-ae1"/>
+                            <constraint firstItem="u9C-ta-Pfs" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="xbM-YN-913"/>
                             <constraint firstItem="u9C-ta-Pfs" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="z1h-sf-uIt"/>
                         </constraints>
                     </view>
